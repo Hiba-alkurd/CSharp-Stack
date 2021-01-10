@@ -1,0 +1,16 @@
+C:\Users\cuteh\RiderProjects\CSharp-Stack\CSharp-Stack\bin\Debug\net5.0\CSharp-Stack.exe
+C:\Users\cuteh\RiderProjects\CSharp-Stack\CSharp-Stack\bin\Debug\net5.0\CSharp-Stack.deps.json
+C:\Users\cuteh\RiderProjects\CSharp-Stack\CSharp-Stack\bin\Debug\net5.0\CSharp-Stack.runtimeconfig.json
+C:\Users\cuteh\RiderProjects\CSharp-Stack\CSharp-Stack\bin\Debug\net5.0\CSharp-Stack.runtimeconfig.dev.json
+C:\Users\cuteh\RiderProjects\CSharp-Stack\CSharp-Stack\bin\Debug\net5.0\CSharp-Stack.dll
+C:\Users\cuteh\RiderProjects\CSharp-Stack\CSharp-Stack\bin\Debug\net5.0\ref\CSharp-Stack.dll
+C:\Users\cuteh\RiderProjects\CSharp-Stack\CSharp-Stack\bin\Debug\net5.0\CSharp-Stack.pdb
+C:\Users\cuteh\RiderProjects\CSharp-Stack\CSharp-Stack\obj\Debug\net5.0\CSharp-Stack.csprojAssemblyReference.cache
+C:\Users\cuteh\RiderProjects\CSharp-Stack\CSharp-Stack\obj\Debug\net5.0\CSharp-Stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cuteh\RiderProjects\CSharp-Stack\CSharp-Stack\obj\Debug\net5.0\CSharp-Stack.AssemblyInfoInputs.cache
+C:\Users\cuteh\RiderProjects\CSharp-Stack\CSharp-Stack\obj\Debug\net5.0\CSharp-Stack.AssemblyInfo.cs
+C:\Users\cuteh\RiderProjects\CSharp-Stack\CSharp-Stack\obj\Debug\net5.0\CSharp-Stack.csproj.CoreCompileInputs.cache
+C:\Users\cuteh\RiderProjects\CSharp-Stack\CSharp-Stack\obj\Debug\net5.0\CSharp-Stack.dll
+C:\Users\cuteh\RiderProjects\CSharp-Stack\CSharp-Stack\obj\Debug\net5.0\ref\CSharp-Stack.dll
+C:\Users\cuteh\RiderProjects\CSharp-Stack\CSharp-Stack\obj\Debug\net5.0\CSharp-Stack.pdb
+C:\Users\cuteh\RiderProjects\CSharp-Stack\CSharp-Stack\obj\Debug\net5.0\CSharp-Stack.genruntimeconfig.cache
